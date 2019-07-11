@@ -47,7 +47,7 @@ parts:
     - libqt5svg5 # for loading icon themes which are svg
     - locales-all
     - xdg-user-dirs
-  qtwebengine_snap:
+  qtwebengine-snap:
     source: https://github.com/grzegorzmazur/qtwebengine_snap.git
     plugin: cmake
     configflags:
