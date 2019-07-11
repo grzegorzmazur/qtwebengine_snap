@@ -1,4 +1,4 @@
-name: qtwebengine_snap
+name: qtwebengine-snap
 title: qtwebengine app in a snap
 version: 0.1--snap1
 grade: stable
