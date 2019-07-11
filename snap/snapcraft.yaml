@@ -8,7 +8,7 @@ description: |
 base: core18
 confinement: strict
 apps:
-  qtsnap:
+  qtwebengine-snap:
     command: desktop-launch qtwebengine_snap
     plugs: [home, x11, wayland, opengl, network, network-bind, desktop, desktop-legacy]
     environment:
